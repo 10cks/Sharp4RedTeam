@@ -10,13 +10,15 @@ Here is a collection of currently open source C# Red Team projects.
 
 ## Sorts
 
-### Anti-Virus Beacon
+### Beacon Anti-Virus
 
 - [yetAnotherObfuscator](https://github.com/0xb11a1/yetAnotherObfuscator)
+- [SharpShellcodeLoader_Rc4Aes](https://github.com/xf555er/SharpShellcodeLoader_Rc4Aes)
 
-### Anti-Virus Exec In Beacon
+### Powershell
 
 - [nopowershell](https://github.com/bitsadmin/nopowershell)
+- [SharpView](https://github.com/tevora-threat/SharpView)
 
 ### Browser Log Extractor
 
@@ -41,6 +43,7 @@ Here is a collection of currently open source C# Red Team projects.
 - [AssemblyLoader](https://github.com/KINGSABRI/AssemblyLoader)
 - [ShellCodeLoaderCSharp](https://github.com/arsium/ShellCodeLoaderCSharp)
 - [SharpKatz](https://github.com/b4rtik/SharpKatz)
+- [DLLInject](https://github.com/LUCKYONE-CC/DLLInject)
 
 ### Other Development
 
@@ -59,7 +62,15 @@ Here is a collection of currently open source C# Red Team projects.
 
 - [Gmer64](https://github.com/10cks/Gmer64)
 
-### Others
+### CheckAV
+
+- [SharpAVKB](https://github.com/uknowsec/SharpAVKB)
+
+### wechat
+
+- [SharpWxDump](https://github.com/AdminTest0/SharpWxDump)
+
+### Others Collection
 
 - [SharpToolsAggressor](https://github.com/uknowsec/SharpToolsAggressor)
 - [RedCsharp](https://github.com/boh/RedCsharp)
